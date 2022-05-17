@@ -165,7 +165,7 @@ footer {
    }
 .hidden{
    max-height: 0;
-   overflow: hidden;
+   overflow:auto;
 }
 nav{
     max-height: 100vh;
