@@ -182,3 +182,11 @@ nav{
         max-height: none;
     }
 }
+
+.git_logo {
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    margin-left: 50px;
+    
+}
